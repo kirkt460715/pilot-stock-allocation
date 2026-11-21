@@ -1,0 +1,14 @@
+[
+  {
+    "store": "river",
+    "transit_days": 1
+  },
+  {
+    "store": "hill",
+    "transit_days": 4
+  },
+  {
+    "store": "hall",
+    "transit_days": 2
+  }
+]

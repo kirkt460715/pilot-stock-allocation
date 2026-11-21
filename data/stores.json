@@ -1,0 +1,17 @@
+[
+  {
+    "store": "river",
+    "zone": "码头",
+    "capacity": 130
+  },
+  {
+    "store": "hill",
+    "zone": "山馆",
+    "capacity": 96
+  },
+  {
+    "store": "hall",
+    "zone": "城馆",
+    "capacity": 180
+  }
+]

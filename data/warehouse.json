@@ -1,0 +1,35 @@
+[
+  {
+    "lot": "L1",
+    "sku": "ring",
+    "cartons": 9,
+    "units_per_carton": 6,
+    "allowed_stores": [
+      "river",
+      "hill"
+    ],
+    "available": "2026-10-12"
+  },
+  {
+    "lot": "L2",
+    "sku": "bird",
+    "cartons": 3,
+    "units_per_carton": 8,
+    "allowed_stores": [
+      "hall",
+      "hill"
+    ],
+    "available": "2026-10-12"
+  },
+  {
+    "lot": "L3",
+    "sku": "new",
+    "cartons": 4,
+    "units_per_carton": 6,
+    "allowed_stores": [
+      "river",
+      "hall"
+    ],
+    "available": "2026-10-14"
+  }
+]

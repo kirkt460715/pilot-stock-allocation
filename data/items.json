@@ -1,0 +1,22 @@
+[
+  {
+    "sku": "ring",
+    "category": "饰品",
+    "price_band": "低"
+  },
+  {
+    "sku": "bird",
+    "category": "饰品",
+    "price_band": "低"
+  },
+  {
+    "sku": "cloud",
+    "category": "文具",
+    "price_band": "中"
+  },
+  {
+    "sku": "new",
+    "category": "饰品",
+    "price_band": "低"
+  }
+]

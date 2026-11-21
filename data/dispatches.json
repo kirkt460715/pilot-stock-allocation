@@ -1,0 +1,32 @@
+[
+  {
+    "transfer": "D1",
+    "lot": "L1",
+    "store": "river",
+    "cartons": 2,
+    "confirmed": "2026-10-08T09:00:00+08:00",
+    "delivery": "2026-10-14",
+    "actual_arrival": "2026-10-15",
+    "status": "已到货"
+  },
+  {
+    "transfer": "D2",
+    "lot": "L1",
+    "store": "hill",
+    "cartons": 3,
+    "confirmed": "2026-10-12T09:00:00+08:00",
+    "delivery": "2026-10-22",
+    "actual_arrival": null,
+    "status": "在途"
+  },
+  {
+    "transfer": "D3",
+    "lot": "L2",
+    "store": "river",
+    "cartons": 1,
+    "confirmed": "2026-10-11T09:00:00+08:00",
+    "delivery": "2026-10-14",
+    "actual_arrival": null,
+    "status": "待确认"
+  }
+]

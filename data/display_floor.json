@@ -1,0 +1,20 @@
+[
+  {
+    "store": "river",
+    "sku": "ring",
+    "minimum": 30,
+    "week_from": "2026-10-13"
+  },
+  {
+    "store": "hill",
+    "sku": "ring",
+    "minimum": 24,
+    "week_from": "2026-10-13"
+  },
+  {
+    "store": "hall",
+    "sku": "new",
+    "minimum": 12,
+    "week_from": "2026-10-13"
+  }
+]

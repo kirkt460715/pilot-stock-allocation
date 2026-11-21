@@ -1,0 +1,20 @@
+[
+  {
+    "return_id": "R3",
+    "store": "river",
+    "sku": "ring",
+    "units": 2,
+    "sold_on": "2026-10-07",
+    "received": "2026-10-10",
+    "cleared": "2026-10-15"
+  },
+  {
+    "return_id": "R4",
+    "store": "hall",
+    "sku": "bird",
+    "units": 1,
+    "sold_on": "2026-10-10",
+    "received": "2026-10-11",
+    "cleared": null
+  }
+]
